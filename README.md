@@ -31,4 +31,4 @@ This clinic landing page is built using Bootstrap. It features a beautiful and a
 
 ## Contact
 
-If you want to contact me, please reach out to me [Linkedin](www.linkedin.com/in/aabhajahagirdar)
+If you want to contact me, please reach out to me [Linkedin]([www.linkedin.com/in/aabhajahagirdar](https://www.linkedin.com/in/aabhajahagirdar/))
