@@ -21,36 +21,13 @@
  <br />
 
    <p align="center">✨ Welcome to Shree Clinic ✨ <br /></p>
-
-
-## Table of Contents
-
-    - Overview
-    - UI of Website
-    - Contribution Guideline
-
  <br />
-
 
 ## Overview 🔨
 
 This clinic landing page is built using Bootstrap. It features a beautiful and attractive user interface designed to engage visitors. The page is fully responsive, ensuring it looks and functions perfectly on any device. Ideal for clinics looking to present their services and information in an appealing and professional manner.
 
   <br />
-
-## UI of the Website
-
-![Screenshot (280)](https://i.ibb.co/948kKXt/clinic-hero-section.png) 
-### Hero Section 
-
-![image](https://i.ibb.co/x3ZbzQM/clinic-doctors-section.png)  
-### Doctors Section 
-
-![image](https://i.ibb.co/1GFJ9Mt/clinic-banner-section.png)  
-### Banner Section 
-
-<br/>
-
 
 ## Contact
 
